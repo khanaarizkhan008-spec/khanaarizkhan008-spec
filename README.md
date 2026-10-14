@@ -1,6 +1,4 @@
-Here’s a more cinematic, “terminal meets athlete profile” version — different from the standard stats card layout:
 
-```markdown
 <!-- ============================================================
      MOHAMMAD AARIZ KHAN | RIZZ
      Stack: JavaScript · React · Next.js · Gen AI · DBMS
