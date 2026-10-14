@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Rizz%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Web%20Developer%20%7C%20Hackathon%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Aarizz%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Web%20Developer%20%7C%20Hackathon%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+things+with+JavaScript+%26+React;Exploring+Generative+AI;Learning+by+shipping+projects;Always+up+for+a+hackathon+%F0%9F%9A%80" alt="Typing SVG" />
